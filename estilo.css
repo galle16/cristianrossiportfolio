@@ -48,7 +48,7 @@ html{
     color: #1CB698;
 }
 .nav-responsive{
-    background-color: #24af73;
+    background-color: #1CB698;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -107,7 +107,7 @@ html{
     background-color: #1CB698;
 }
 .sobremi{
-    background-color: #1e2326;
+    background-color: #010202;
     color: #fff;
     padding: 50px 20px;
 }
@@ -120,6 +120,7 @@ html{
     font-family: 'Righteous';
     text-align: center;
     padding: 20px 0;
+    
 
 }
 .sobremi .contenido-seccion p{
@@ -167,7 +168,7 @@ html{
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
     height: 100px;
-    background-color: #252A2E;
+    background-color: #252a2e;
     border-radius: 10px;
     margin: 0 15px 15px 0;
     display: flex;
@@ -275,7 +276,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .htmlcss{
@@ -320,7 +321,7 @@ html{
 }
 @keyframes comunicacion {
     0%{width: 0%;}
-    100%{width: 90%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .trabajo{
@@ -329,7 +330,7 @@ html{
 }
 @keyframes trabajo {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .creatividad{
@@ -338,7 +339,7 @@ html{
 }
 @keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .dedicacion{
@@ -356,7 +357,7 @@ html{
 }
 @keyframes proyect {
     0%{width: 0%;}
-    100%{width: 94%;}
+    100%{width: 100%;}
 }
 /* SECCION CURRICULUM */
 .curriculum{
@@ -590,7 +591,7 @@ html{
     top: 40%;
     background-color: #252A2E;
     padding: 20px;
-    max-swidth: 350px;
+    max-width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
